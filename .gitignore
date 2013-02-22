@@ -1,6 +1,10 @@
 *.class
 *.log
-
+.cache
+.classpath
+.worksheet/*
+.settings/*
+.project
 # sbt specific
 dist/*
 target/
